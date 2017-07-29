@@ -1,5 +1,3 @@
-package baekjoon;
-
 /**
  * 별찍기
  */

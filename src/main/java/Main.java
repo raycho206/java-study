@@ -1,9 +1,26 @@
 import java.util.*;
 
+class AngryException extends RuntimeException {
+    public AngryException(String s) {
+        super(s);
+    }
+}
+
+class Wonjong {
+    void angry() throws AngryException {
+        throw new AngryException("나는 AngryException입니다.");
+    }
+}
+
 public class Main {
 
-    public static void main(String[] args) throws Exception {
-
+    public static void main(String[] args) {
+        Wonjong wonjong = new Wonjong();
+        try {
+            wonjong.angry();
+        } catch (AngryException e) {
+            e.printStackTrace();
+        }
 
 //        int[] observers = null;
 ////        int[] observers = {1, 2, 3};
