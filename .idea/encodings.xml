@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/src/main/designpattern/facade/pagemaker/PageMaker.java" charset="UTF-8" />
-<<<<<<< HEAD
-=======
-    <file url="file://$PROJECT_DIR$/src/main/java/thisisjava/ioTest/SerialVersionUIDExample1.java" charset="UTF-8" />
->>>>>>> 2a7a6843cd0de1c3542a6d2355da785d9500830b
+  <component name="Encoding">
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
