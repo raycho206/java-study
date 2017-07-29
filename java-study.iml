@@ -9,11 +9,17 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/designpattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/uml" isTestSource="false" />
+<<<<<<< HEAD
       <sourceFolder url="file://$MODULE_DIR$/src/main/baekjoon" isTestSource="false" />
+=======
+>>>>>>> 2a7a6843cd0de1c3542a6d2355da785d9500830b
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="junit:junit:4.2" level="project" />
+<<<<<<< HEAD
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+=======
+>>>>>>> 2a7a6843cd0de1c3542a6d2355da785d9500830b
   </component>
 </module>

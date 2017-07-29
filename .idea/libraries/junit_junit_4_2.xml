@@ -3,6 +3,10 @@
     <properties maven-id="junit:junit:4.2" />
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.2/junit-4.2.jar!/" />
+<<<<<<< HEAD
+=======
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.2/junit-4.2.jar!/" />
+>>>>>>> 2a7a6843cd0de1c3542a6d2355da785d9500830b
     </CLASSES>
     <JAVADOC />
     <SOURCES />
